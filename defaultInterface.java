@@ -11,7 +11,7 @@ interface defaultinter
 	}
 	static void multiply()
 	{
-		System.out.println("interface multiply method");
+		System.out.println("interface multiply methoddd");
 	}
 }
 
